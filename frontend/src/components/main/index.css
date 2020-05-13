@@ -1,0 +1,18 @@
+.container{
+    background-color: white;
+    border-radius: 10px;
+    width: 90%;
+    min-height: 90vh;
+    margin:30px auto; 
+
+}
+.header{
+    padding: 30px;
+}
+
+h1,h3{
+    text-align: left;
+    letter-spacing: 0.72px;
+    color: #170C3A;
+    opacity: 1;
+}
